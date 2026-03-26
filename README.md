@@ -19,5 +19,4 @@
 - 📊 Sistema de gestión de ventas comunitarias
 
 ## 📫 Contacto
-- LinkedIn: (tu link)
-- Email: (tu correo)
+- Email: estebgonza95@hotmail.com
