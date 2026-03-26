@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Esteban Gonzabay
 
-<!--
-**EstebanGonzabay/EstebanGonzabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ingeniero en Informática | Magíster en Software  
+👨‍🏫 Docente universitario en TICs  
+💻 Desarrollador Full Stack  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- Desarrollo sistemas con Java y bases de datos relacionales
+- Experiencia en proyectos académicos y empresariales
+- Interés en IA, análisis de datos y visión por computadora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+- Java | MySQL | HTML | CSS | JavaScript
+- Git | GitHub | APIs REST
+
+## 📌 Proyectos destacados
+- 🛒 Sistema de tienda virtual (Java + MySQL)
+- ☕ Clasificación de granos de café con CNN
+- 📊 Sistema de gestión de ventas comunitarias
+
+## 📫 Contacto
+- LinkedIn: (tu link)
+- Email: (tu correo)
