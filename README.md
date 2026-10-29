@@ -1,106 +1,144 @@
-# 👋 Hola, soy Esteban Gonzabay
-
+<!-- ===================== ENCABEZADO ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Ingeniero-Informática-blue?style=for-the-badge&logo=cpu&logoColor=white" alt="Ingeniero Informática" />
-  <img src="https://img.shields.io/badge/Magíster-Software-darkgreen?style=for-the-badge&logo=codeforces&logoColor=white" alt="Magíster Software" />
-  <img src="https://img.shields.io/badge/Docente-TICs-orange?style=for-the-badge&logo=chalkboard-teacher&logoColor=white" alt="Docente TICs" />
-  <img src="https://img.shields.io/badge/Desarrollador-Full--Stack-red?style=for-the-badge&logo=javascript&logoColor=white" alt="Desarrollador Full Stack" />
-</p>
-
----
-
-## 🚀 Sobre mí
-
-Soy un apasionado **Ingeniero en Informática** y **Magíster en Software**, combinando mi rol como **Docente Universitario en TICs** con el desarrollo activo de soluciones **Full Stack**. Mi enfoque se centra en la intersección de la educación tecnológica y la implementación de sistemas robustos.
-
-- 💻 **Especialidad:** Desarrollo de sistemas corporativos y académicos utilizando **Java** y bases de datos relacionales.
-- 💡 **Intereses Principales:** Me fascina la **Inteligencia Artificial**, el **Análisis de Datos** complejo y la **Visión por Computadora** aplicada.
-- 👨‍🏫 **Misión:** Formar a los futuros profesionales del software e investigar nuevas tecnologías.
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-He perfeccionado mis habilidades en un ecosistema tecnológico diverso para ofrecer soluciones eficientes.
-
-### 🧰 Lenguajes y Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-### 🛢️ Bases de Datos y Herramientas
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/APIs_REST-darkblue?style=flat&logo=api&logoColor=white" alt="APIs REST" />
-</p>
-
----
-
-## 📌 Proyectos Destacados
-
-Aquí te presento algunos de los proyectos más significativos en los que he trabajado, fusionando teoría y práctica.
-
-<details>
-  <summary>🛒 Sistema de Tienda Virtual (Java + MySQL)</summary>
-  <p>Una plataforma de e-commerce robusta y escalable que permite la gestión de productos, carritos de compra y transacciones seguras. Desarrollada con enfoque en la eficiencia del backend.</p>
-</details>
-
-<details>
-  <summary>☕ Clasificación de Granos de Café con CNN</summary>
-  <p>Mi incursión en el Deep Learning. Este proyecto utiliza Redes Neuronales Convolucionales (CNN) para clasificar la calidad de granos de café basándose en imágenes, optimizando el control de calidad.</p>
-</details>
-
-<details>
-  <summary>📊 Sistema de Gestión de Ventas Comunitarias</summary>
-  <p>Un sistema diseñado para centralizar y analizar datos de ventas en entornos comunitarios, facilitando la toma de decisiones informadas y la transparencia comercial.</p>
-</details>
-
----
-
-## 📊 Estadísticas de GitHub y Actividad
-
-Aquí puedes ver mi actividad y contribuciones en el mundo del código abierto:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstebanGonzabay&show_icons=true&theme=nord" alt="Estadísticas de GitHub de Esteban Gonzabay" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Esteban%20Gonzabay&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Docente%20Universitario%20%E2%80%A2%20Ingeniero%20de%20Software%20%E2%80%A2%20Investigador%20en%20IA&descSize=16&descAlignY=58&animation=fadeIn" alt="Esteban Gonzabay" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstebanGonzabay&theme=nord" alt="Racha de contribuciones en GitHub" />
-</p>
-
----
-
-## 📫 ¡Conectemos!
-
-Estoy siempre abierto a colaboraciones académicas, proyectos de investigación o nuevas oportunidades de desarrollo.
-
-<p align="center">
-  <a href="mailto:estebgonza95@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-estebgonza95@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico de Esteban Gonzabay" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-perfil-de-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Esteban_Gonzabay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Esteban Gonzabay" />
-  </a>
-  <a href="https://t.me/tu-usuario-de-telegram/">
-    <img src="https://img.shields.io/badge/Telegram-Contactar-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram de Esteban Gonzabay" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2C9AB7&center=true&vCenter=true&width=640&lines=Magíster+en+Software+%F0%9F%8E%93;Doctorando+en+Inteligencia+Artificial+%F0%9F%A4%96;Docente+de+Ciencias+de+la+Computación+%E2%80%94+ESPE;Autor+de+publicaciones+indexadas+en+Scopus+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  🏠 Basado en: Esmeraldas, Ecuador 🇪🇨
+  <a href="https://www.linkedin.com/in/esteban-gonzabay-jim%C3%A9nez-a7a8a043b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://orcid.org/0009-0000-5224-1568"><img src="https://img.shields.io/badge/ORCID-0009--0000--5224--1568-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="mailto:gonzabay52@gmail.com"><img src="https://img.shields.io/badge/Email-gonzabay52@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=EstebanGonzabay&style=for-the-badge&color=2C5364&label=VISITAS" alt="Visitas al perfil" />
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy **Ingeniero en Teleinformática** y **Magíster en Software**, docente del **Departamento de Ciencias de la Computación** de la **Universidad de las Fuerzas Armadas ESPE – Sede Santo Domingo** 🇪🇨 y **doctorando en Inteligencia Artificial y Ética Algorítmica Aplicada**. Trabajo en el punto donde se cruzan la **ingeniería de software**, la **inteligencia artificial** y la **educación tecnológica**.
+
+```java
+public class EstebanGonzabay {
+    String rol        = "Docente universitario · Ingeniero de Software · Investigador";
+    String[] enfoque  = {"Desarrollo Full Stack", "IA y Deep Learning", "Análisis de datos", "Cloud (AWS)"};
+    String[] formacion = {"Ing. en Teleinformática", "Magíster en Software", "Doctorado en IA (en curso)"};
+    String mision     = "Formar profesionales del software y construir tecnología con impacto social";
+}
+```
+
+- 🏫 **Docencia:** Programación en Java, Sistemas Operativos con AWS Academy e IA Generativa a nivel universitario.
+- 🧭 **Gestión académica:** ex Coordinador de la carrera de Tecnología Superior en Desarrollo de Software (PUCE Esmeraldas).
+- 🔬 **Investigación:** IA aplicada a la educación, brecha digital y visión por computadora.
+- 🌱 **Vinculación:** tutor del proyecto **TerritorIA**, una solución con IA para el sector agrícola.
+- 📫 **Contáctame para:** colaboraciones académicas, proyectos de investigación y desarrollo de software.
+
+---
+
+## 🛠️ Stack tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,mysql,postgres,tensorflow&perline=10" alt="Lenguajes y frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,aws,postman,figma&perline=10" alt="Herramientas" />
+</p>
+
+| Área | Tecnologías |
+|---|---|
+| **Backend** | Java · Spring Boot · Python · APIs REST |
+| **Frontend** | React · JavaScript · HTML5 · CSS3 |
+| **Datos e IA** | TensorFlow · CNN / Deep Learning · Google Colab · Power BI · SPSS |
+| **Bases de datos** | MySQL · PostgreSQL · modelado relacional |
+| **Cloud y herramientas** | AWS (Academy Learner Lab) · Linux · Git · GitHub |
+| **Metodologías** | Scrum / ágiles · PMBOK · arquitectura de software |
+
+---
+
+## 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ Clasificación de granos de café con CNN</h3>
+      <p>Modelo de <b>Deep Learning</b> con redes neuronales convolucionales que clasifica la calidad de granos de café a partir de imágenes, para automatizar el control de calidad agroindustrial. Derivado de mi tesis de maestría.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Tienda virtual (e-commerce)</h3>
+      <p>Plataforma de comercio electrónico con gestión de productos, carrito de compras y transacciones, construida con un backend robusto en <b>Java</b> y base de datos relacional.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Gestión de ventas comunitarias</h3>
+      <p>Sistema que centraliza y analiza las ventas de emprendimientos comunitarios, con reportes que ayudan a decidir mejor y dan transparencia comercial.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full_Stack-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 TerritorIA</h3>
+      <p>Proyecto de vinculación (PUCE Esmeraldas, 2026) en el que fui <b>docente tutor</b> de estudiantes que desarrollaron e implementaron una solución con <b>herramientas de IA</b> para el sector agrícola local.</p>
+      <p>
+        <img src="https://img.shields.io/badge/IA_aplicada-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Impacto_social-2E7D32?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Publicaciones científicas
+
+| Año | Publicación | Medio | |
+|:---:|---|---|:---:|
+| 2026 | **Academic Performance and Inequality: Can Generative AI Widen the Digital Divide in Higher Education?** · *Primer autor* | EAI/Springer · ICETEI 2025 · Scopus | [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--10310--9__13-0A66C2?style=flat-square)](https://doi.org/10.1007/978-3-032-10310-9_13) |
+| 2026 | **Integrating Automation and Artificial Intelligence into Educational Practice** · *Coautor* | EAI/Springer · ICETEI 2025 · Scopus | [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--10310--9__20-0A66C2?style=flat-square)](https://doi.org/10.1007/978-3-032-10310-9_20) |
+
+🎤 **Conferencista magistral:** *Plataforma Digital Gamificada para la Regulación Emocional en Adolescentes*. Congreso Internacional Universitario, Tecnológico Nacional de México (2025).
+
+---
+
+## 📈 Estadísticas en GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EstebanGonzabay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanGonzabay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EstebanGonzabay&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EstebanGonzabay&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Enseñar a programar es enseñar a pensar; investigar es aprender a preguntar.”</i>
+</p>
+
+<p align="center">
+  📍 Santo Domingo, Ecuador 🇪🇨
+</p>
+
+<!-- ===================== PIE ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" alt="footer" />
 </p>
