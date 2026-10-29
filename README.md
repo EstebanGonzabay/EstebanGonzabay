@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2C9AB7&center=true&vCenter=true&width=640&lines=Magíster+en+Software+%F0%9F%8E%93;Doctorando+en+Inteligencia+Artificial+%F0%9F%A4%96;Docente+de+Ciencias+de+la+Computación+%E2%80%94+ESPE;Autor+de+publicaciones+indexadas+en+Scopus+%F0%9F%93%9A" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2C9AB7&center=true&vCenter=true&width=640&lines=Mag%C3%ADster+en+Software;Doctorando+en+Inteligencia+Artificial;Docente+de+Ciencias+de+la+Computaci%C3%B3n+-+ESPE;Autor+de+publicaciones+indexadas+en+Scopus" alt="Magíster en Software · Doctorando en IA · Docente ESPE" />
 </p>
 
 <p align="center">
@@ -113,19 +111,14 @@ public class EstebanGonzabay {
 
 ---
 
-## 📈 Estadísticas en GitHub
+## 🐍 Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EstebanGonzabay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanGonzabay&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EstebanGonzabay&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EstebanGonzabay&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EstebanGonzabay/EstebanGonzabay/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EstebanGonzabay/EstebanGonzabay/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribuciones de Esteban Gonzabay" src="https://raw.githubusercontent.com/EstebanGonzabay/EstebanGonzabay/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
